@@ -1,0 +1,72 @@
+[{
+  "location": {
+    "name": "Cine El Rey",
+    "city": "McAllen, TX",
+    "address": "311 S 17th St, McAllen, TX 78501"
+  },
+  "date": "07/24/2017",
+  "url": "https://www.groupon.com/biz/mcallen/cine-el-rey"
+},
+{
+  "location": {
+    "name": "3911 Lounge",
+    "city": "McAllen, TX",
+    "address": "3911 N 10th ST, McAllen, TX 78501"
+  },
+  "date": "07/28/2017",
+  "url": "https://www.facebook.com/3911retrolou/"
+},
+{
+  "location": {
+    "name": "The Wing Shack",
+    "city": "San Benito, Tx",
+    "address": "587 S Sam Houston Blvd, San Benito, Tx 78586"
+  },
+  "date": "08/09/2017",
+  "url": "https://www.facebook.com/thewingshacksports/?hc_ref=ARQI7G7NiWtW89tDHNcK8-hFQ27agFpH8HgamGNQ8ofqFOasR7oeR7pFsRyHRUpsYMk"
+},
+{
+  "location": {
+    "name": "Cine El Rey",
+    "city": "McAllen, TX",
+    "address": "311 S 17th St, McAllen, TX 78501"
+  },
+  "date": "08/17/2017",
+  "url": "https://www.groupon.com/biz/mcallen/cine-el-rey"
+},
+{
+  "location": {
+    "name": "Cine El Rey",
+    "city": "McAllen, TX",
+    "address": "311 S 17th St, McAllen, TX 78501"
+  },
+  "date": "07/24/2017",
+  "url": "https://www.groupon.com/biz/mcallen/cine-el-rey"
+},
+{
+  "location": {
+    "name": "3911 Lounge",
+    "city": "McAllen, TX",
+    "address": "3911 N 10th ST, McAllen, TX 78501"
+  },
+  "date": "07/28/2017",
+  "url": "https://www.facebook.com/3911retrolou/"
+},
+{
+  "location": {
+    "name": "The Wing Shack",
+    "city": "San Benito, Tx",
+    "address": "587 S Sam Houston Blvd, San Benito, Tx 78586"
+  },
+  "date": "08/09/2017",
+  "url": "https://www.facebook.com/thewingshacksports/?hc_ref=ARQI7G7NiWtW89tDHNcK8-hFQ27agFpH8HgamGNQ8ofqFOasR7oeR7pFsRyHRUpsYMk"
+},{
+  "location": {
+    "name": "Cine El Rey",
+    "city": "McAllen, TX",
+    "address": "311 S 17th St, McAllen, TX 78501"
+  },
+  "date": "07/24/2017",
+  "url": "https://www.groupon.com/biz/mcallen/cine-el-rey"
+}
+]
