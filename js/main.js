@@ -15,7 +15,7 @@ showList.send();
 function renderTableHTML(data) {
   var htmlString = '<tr>';
   for (i = 0; i < data.length; i++) {
-    htmlString += `<td>${data[i].location.name} in ${data[i].location.city}</td>
+    htmlString += `<td>${data[i].location.name}</td> <td>${data[i].location.city}</td>
       <td>${data[i].date}</td>
       <td><a href="${data[i].url}" target="_blank" class="btn btn-primary btn-sm" role="button">Buy</a>
       </td>
