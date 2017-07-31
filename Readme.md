@@ -1,11 +1,11 @@
-#Playing with JSON
+# Playing with JSON
 
-###Goal 
+### Goal 
 List out contents of *JSON* file to a bootstraps table. Also get a feel for what information people may be looking for if they came upon an even list. Learn more about JSON requests.
 
 
 
-###JSON Data
+### JSON Data
 - Location: 
     - Name of where event is taking place
     - City
@@ -14,7 +14,7 @@ List out contents of *JSON* file to a bootstraps table. Also get a feel for what
 - Date: The date the event is happening (should add time too I guess)
 - URL: Link to buy tickets for event (could be set up with a square-up or strip account to make simple)
 
-###Extras
+### Extras
 
 - Use google maps API
 - Custom google maps display (I don't like their colors or icons)
