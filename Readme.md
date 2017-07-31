@@ -1,12 +1,14 @@
 # Playing with JSON
 
-### Goal 
+[You can see how it's going here.](http://testlooper.surge.sh/)
+
+### Goal
 List out contents of *JSON* file to a bootstraps table. Also get a feel for what information people may be looking for if they came upon an even list. Learn more about JSON requests.
 
 
 
 ### JSON Data
-- Location: 
+- Location:
     - Name of where event is taking place
     - City
     - Full address (if I incorporate google maps I can omit this and just use their data)
